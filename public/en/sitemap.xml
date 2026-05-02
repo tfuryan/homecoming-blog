@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://example.com/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/"
+                />
+  </url><url>
+    <loc>https://example.com/project-timeline/</loc>
+  </url><url>
+    <loc>https://example.com/resources/</loc>
+  </url><url>
+    <loc>https://example.com/blog/</loc>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+</urlset>
